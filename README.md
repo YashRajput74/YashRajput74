@@ -52,6 +52,6 @@
 <hr>
 
 <h3>📌 Featured Project:</h3>
-<p><a href="https://6823438cb1f9b200083b68aa--mahjongapk.netlify.app/" target="_blank">🀄 Mahjong Game</a></p>
+<p><a href="https://6823438cb1f9b200083b68aa--mahjongapk.netlify.app/" target="_blank">Tile-Flip Game</a></p>
 
 <p>Last Updated: May 2025</p>
