@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/yash-rajput-904070283" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://680bd1da0d34777cc5b1ffdb--yashportfoliov1.netlify.app/" target="blank">
+  <a href="https://687d59d3cb47c90008a10aa0--yashrajputportfolio.netlify.app/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" height="30" width="40"/>
   </a>
 </p>
